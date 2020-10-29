@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="Calculator1.1:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2f77c91c-e146-49c8-8187-31238993971b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1am3CpQb6keKWiWBbXAKjXzNRji" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../tryLearnMySql" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunManager">
+    <configuration name="JFrameWindowCalc" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JFrameWindowCalc" />
+      <module name="Calculator1.1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2f77c91c-e146-49c8-8187-31238993971b" name="Default Changelist" comment="" />
+      <created>1587326816495</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587326816495</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="620" y="259" key="FileChooserDialogImpl" timestamp="1602437166661">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="620" y="259" key="FileChooserDialogImpl/0.0.1680.1010@0.0.1680.1010" timestamp="1602437166661" />
+    <state width="1637" height="2" key="GridCell.Tab.0.bottom" timestamp="1602436609276">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1637" height="2" key="GridCell.Tab.0.bottom/0.0.1680.1010@0.0.1680.1010" timestamp="1602436609276" />
+    <state width="1637" height="2" key="GridCell.Tab.0.center" timestamp="1602436609276">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1637" height="2" key="GridCell.Tab.0.center/0.0.1680.1010@0.0.1680.1010" timestamp="1602436609276" />
+    <state width="1637" height="2" key="GridCell.Tab.0.left" timestamp="1602436609276">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1637" height="2" key="GridCell.Tab.0.left/0.0.1680.1010@0.0.1680.1010" timestamp="1602436609276" />
+    <state width="1637" height="2" key="GridCell.Tab.0.right" timestamp="1602436609276">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1637" height="2" key="GridCell.Tab.0.right/0.0.1680.1010@0.0.1680.1010" timestamp="1602436609276" />
+    <state x="536" y="328" key="com.intellij.ide.util.TipDialog" timestamp="1602437125502">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="536" y="328" key="com.intellij.ide.util.TipDialog/0.0.1680.1010@0.0.1680.1010" timestamp="1602437125502" />
+    <state x="222" y="125" key="new project wizard" timestamp="1602437161541">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="222" y="125" key="new project wizard/0.0.1680.1010@0.0.1680.1010" timestamp="1602437161541" />
+  </component>
+</project>
